@@ -216,7 +216,7 @@ export default function GestaoClientes() {
           </head>
           <body>
             <div class="header">
-              <h1 class="title">Sociedade Espírita Beneficente Miguel Vieira de Novaes</h1>
+              <h1 class="title">Sistema de estudo de banco de dados ERP-BIBLIOTECA</h1>
               <p class="subtitle">Relatório Analítico de Cliente - ${periodoLabel}</p>
             </div>
             
