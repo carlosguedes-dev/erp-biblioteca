@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "ERP Biblioteca e Vendas",
-  description: "Sistema de Gestão - Sociedade Espírita Beneficente Miguel Vieira de Novaes",
+  description: "Sistema de Gestão - erp-biblioteca",
 };
 
 export default function RootLayout({
@@ -19,7 +19,7 @@ export default function RootLayout({
         <header className="bg-white shadow-sm border-b border-gray-200 sticky top-0 z-50">
           <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
             <h1 className="text-xl font-semibold text-gray-900 tracking-tight">
-              Sociedade Espírita Beneficente Miguel Vieira de Novaes
+              Sistema de estudo de banco de dados ERP-BIBLIOTECA
             </h1>
             <nav className="flex gap-6 text-sm font-medium text-gray-600">
               <Link href="/" className="hover:text-blue-600 transition-colors">Dashboard</Link>
