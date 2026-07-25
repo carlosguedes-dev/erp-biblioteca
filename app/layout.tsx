@@ -39,7 +39,7 @@ export default function RootLayout({
         <footer className="bg-white border-t border-gray-200 mt-auto">
           <div className="max-w-7xl mx-auto px-4 h-12 flex items-center justify-center">
             <p className="text-sm text-gray-500 font-medium">
-              Desenvolvido por @devguedes02
+              Desenvolvido por Carlos Guedes (@devguedes02)
             </p>
           </div>
         </footer>
