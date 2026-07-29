@@ -1,0 +1,6 @@
+@echo off
+echo Instalando dependencias...
+pip install -r requirements.txt
+echo Executando o sistema ERP Biblioteca...
+python main.py
+pause
